@@ -99,8 +99,8 @@ while (1)
         }
 
     # if we get here, something unexpected happened.
-    exit 5;
     print "Possible Environment Error\n";
+    exit 5;
     } # end poll loop
 
 # retrieve and display results
