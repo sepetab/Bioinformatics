@@ -21,4 +21,15 @@ Python script that simulates the evolution of a protein sequence using an amino 
 python3 evolve.py < input.fasta > output.fasta
 
 ```
+## Protein Modelling 
+
+The aim is to build a model of a protein from its sequence and validate it. The model is built from the sequence of a DNA-binding protein from Pseudomonas.
+
+### Sequence
+```
+>pf4mutant
+MSTPADRARLLIKKIGPKKVSLHGGDYERWKSVSKGAIRVSTEEIDVLVKIFPNYALWIASGSIAPEVGQTS
+PDYDEANLNLSNQNAG
+```
+
 
